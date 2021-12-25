@@ -19,7 +19,7 @@
     "asar": false,
     "win": {
       "target": "nsis",
-      "artifactName": "${productName}_${version}.${ext}"
+      "artifactName": "${productName}_${version}_${os}_${arch}.${ext}"
     }
   },
   "dependencies": {
