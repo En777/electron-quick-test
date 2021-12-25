@@ -15,6 +15,8 @@ document.body.innerHTML += `
 <pre>
 quick test at electron app environment.
 
+press ctrl+shift+i open devtools, you can run js at Console and do more things.
+
 ${electronVersion}
 ${nodejsVersion}
 ${chromeVersion}
