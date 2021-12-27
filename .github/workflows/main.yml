@@ -29,7 +29,7 @@ jobs:
         # 使用actions市场的开源库 actions/setup-node安装node
         uses: actions/setup-node@v2.5.0
         with:
-          node-version: '14'
+          node-version: '16.13.1'
 
       - name: print
         run: node -v && npm -v && pwd && ls
