@@ -46,4 +46,5 @@ jobs:
         with:
           artifacts: "dist/**.exe"
           artifactErrorsFailBuild: true
+          allowUpdates: true
           token: ${{ secrets.HUB_TOKEN }}
