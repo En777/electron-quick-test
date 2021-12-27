@@ -45,4 +45,5 @@ jobs:
       - uses: ncipollo/release-action@v1
         with:
           artifacts: "dist/**.zip"
+          artifactErrorsFailBuild: true
           token: ${{ secrets.HUB_TOKEN }}
