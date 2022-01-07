@@ -1,7 +1,7 @@
 # electron-quick-test
 Electron 程序快速测试的环境。
 
-下载试用：[各种 Electron 版本的程序](https://github.com/En777/web-dev-box/releases)
+下载试用：[各种 Electron 版本的程序](https://github.com/En777/electron-quick-test/releases)
 
 有时候我需要在不同的 electron 版本做一些技术验证，于是有了这个项目。
 
